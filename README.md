@@ -4,7 +4,7 @@
 
 InstaNews - Pulse is a modern and responsive news web application designed to deliver the latest updates with style and speed. Powered by cutting-edge technologies like React, Vite, TypeScript, and Tailwind CSS, this platform is built for performance, scalability, and an exceptional user experience.
 
-🌐 **Live URL:** "https://instanews-pulse.vercel.app"
+🌐 **Live URL:** [InstaNews-Pulse](https://instanews-pulse.vercel.app)
 
 ---
 
