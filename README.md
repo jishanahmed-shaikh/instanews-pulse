@@ -38,7 +38,7 @@ InstaNews - Pulse is a modern and responsive news web application designed to de
 
 ```bash
 # 1. Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/jishanahmed-shaikh/instanews-pulse.git
 
 # 2. Navigate to the project directory
 cd instanews-pulse
